@@ -22,7 +22,7 @@ rails generate controller say hello
 
 <img src="/lib/01.png">
 
-2. 能够链接到国科大主页，通过<a target="_black">标签打开一个新的窗口跳转。
+2. 能够链接到国科大主页，通过设置链接属性target="_black"打开一个新的窗口跳转。
 
 <img src="/lib/02.png">
 
