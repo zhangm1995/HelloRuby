@@ -14,13 +14,15 @@ rails generate controller say hello
 
 # 实现以下功能 ：
 
+在浏览器中访问（http://localhost:3000/say/hello）
+
 1. 显示本地时间。
 
-此处可以动态显示实时时间，通过setInterval方法实现
+此处可以动态显示实时时间，通过setInterval方法实现。并且还可以根据时间 提示用户“上午好”“下午好”“晚上好”。
 
 <img src="/lib/01.png">
 
-2. 能够链接到国科大主页，打开一个新的窗口跳转。
+2. 能够链接到国科大主页，通过设置链接属性target="_black"打开一个新的窗口跳转。
 
 <img src="/lib/02.png">
 
