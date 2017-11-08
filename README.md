@@ -2,6 +2,8 @@
 
 在 ruby on rails框架中实现一个简单主页
 
+已部署在heroku上，点击https://zmrubyhelloapp.herokuapp.com/say/hello
+
 1. 创建新项目
 ```
 rails new HelloRuby
